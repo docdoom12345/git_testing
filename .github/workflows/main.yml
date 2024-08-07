@@ -4,7 +4,7 @@ name: PR Creation for Main Branch
 on:
   pull_request:
     branches:
-      - main
+      - master
     types:
       - opened
 
